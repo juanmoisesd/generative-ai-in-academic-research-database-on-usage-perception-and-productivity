@@ -1,16 +1,21 @@
 cff-version: 1.2.0
-message: "Please cite this dataset using the metadata below."
+message: "If you use this software/dataset, please cite it as below."
 type: dataset
-title: "Generative AI in Academic Research: Database on Usage, Perception and Productivity Variables (Latin America, 2022-2025)"
+title: "Structured database on the use of generative artificial intelligence (GAI) in academic research and university teaching in Latin America (2022-2025). Includes data on: frequency of use by students and researchers, areas of application (writing, data "
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
     orcid: "https://orcid.org/0000-0002-8401-8018"
     affiliation: "Universidad Internacional de La Rioja (UNIR)"
-doi: "10.5281/zenodo.18881120"
-url: "https://doi.org/10.5281/zenodo.18881120"
+    email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity"
-license: CC0-1.0
-date-released: "2026-03-05"
+url: "https://juanmoisesd.github.io/generative-ai-in-academic-research-database-on-usage-perception-and-productivity/"
+abstract: "Structured database on the use of generative artificial intelligence (GAI) in academic research and university teaching in Latin America (2022-2025). Includes data on: frequency of use by students and researchers, areas of application (writing, data "
 keywords:
-
+  - open-data
+  - dataset
+  - research
+  - science
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-03-20"
