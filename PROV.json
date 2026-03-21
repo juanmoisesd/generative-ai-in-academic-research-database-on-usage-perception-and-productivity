@@ -1,0 +1,32 @@
+{
+  "wasGeneratedBy": {
+    "activity": "DataCompilation",
+    "agent": {
+      "type": "Person",
+      "name": "Juan Moisés de la Serna Tuya",
+      "orcid": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)"
+    },
+    "startedAtTime": "2026-03-01T00:00:00Z",
+    "endedAtTime": "2026-03-20T00:00:00Z"
+  },
+  "entity": {
+    "type": "Dataset",
+    "name": "Structured database on the use of generative artificial intelligence (GAI) in academic research and university teaching in Latin America (2022-2025). Includes data on: frequency of use by students and researchers, areas of application (writing, data ",
+    "url": "https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity",
+    "license": "CC0-1.0"
+  },
+  "wasDerivedFrom": {
+    "description": "Compiled from publicly available secondary sources",
+    "sources": [
+      "Public databases",
+      "Peer-reviewed literature",
+      "International organizations"
+    ]
+  },
+  "wasAttributedTo": {
+    "type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "orcid": "https://orcid.org/0000-0002-8401-8018"
+  }
+}
