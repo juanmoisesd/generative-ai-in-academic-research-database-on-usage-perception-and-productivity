@@ -21,3 +21,26 @@ Open the exploratory analysis notebook — no installation needed:
 - Productivity indicators: time savings, output quality
 - Demographic breakdown by country, discipline, and institution type
 - Latin America focus: 15+ countries, 2022–2025
+
+
+## 📖 Citation
+
+If you use this dataset or database in your research, please cite:
+
+**APA:**
+Serna Tuya, J. M. (2025). *Structured database on the use of generative artificial intelligence (GAI) in academic research and university teaching in Latin America (2022–2025)*. Zenodo. https://doi.org/10.5281/zenodo.15229868
+
+**Chicago:**
+Serna Tuya, Juan Moisés. "Structured Database on the Use of Generative Artificial Intelligence (GAI) in Academic Research and University Teaching in Latin America (2022–2025)." Zenodo, 2025. https://doi.org/10.5281/zenodo.15229868.
+
+**BibTeX:**
+```bibtex
+@dataset{sernatuya_2025_genai,
+  author    = {Serna Tuya, Juan Moisés},
+  title     = {Structured database on the use of generative AI in academic research in Latin America (2022–2025)},
+  year      = {2025},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.15229868},
+  url       = {https://doi.org/10.5281/zenodo.15229868}
+}
+```
