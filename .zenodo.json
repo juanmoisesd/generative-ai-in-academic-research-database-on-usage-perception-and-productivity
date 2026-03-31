@@ -1,9 +1,9 @@
 {
-  "title": "Structured database on the use of generative artificial intelligence (GAI) in academic research and university teaching in Latin America (2022-2025). Includes data on: frequency of use by students and researchers, areas of application (writing, data ",
-  "description": "Structured database on the use of generative artificial intelligence (GAI) in academic research and university teaching in Latin America (2022-2025). Includes data on: frequency of use by students and researchers, areas of application (writing, data ",
+  "title": "Structured database on the use of generative artificial intelligence (GAI) in academic research and university teaching in Latin America (2022-2025). Includes data on usage patterns, perception, and productivity.",
+  "description": "Structured database on the use of generative artificial intelligence (GAI) in academic research and university teaching in Latin America (2022-2025). Includes data on usage patterns, perception, and productivity.",
   "upload_type": "dataset",
   "access_right": "open",
-  "license": "cc-zero",
+  "license": "cc-by-4.0",
   "creators": [
     {
       "name": "de la Serna Tuya, Juan Moisés",
@@ -12,26 +12,41 @@
     }
   ],
   "keywords": [
-    "cc0",
-    "dataset",
-    "open-data",
-    "zenodo",
-    "open-data",
-    "dataset",
-    "research"
+    "generative AI",
+    "artificial intelligence",
+    "academic research",
+    "university teaching",
+    "Latin America",
+    "productivity",
+    "perception",
+    "ChatGPT"
   ],
-  "language": "eng",
   "communities": [
     {
       "identifier": "zenodo"
+    },
+    {
+      "identifier": "openaire"
+    },
+    {
+      "identifier": "eoscfuture"
+    },
+    {
+      "identifier": "health-open-research"
     }
   ],
-  "grants": [],
+  "notes": "OpenAIRE compliant. Submitted to EOSC Future. Part of the Open Research Collection by Juan Moisés Serna Tuya (DOI: 10.5281/zenodo.19145316).",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity",
+      "identifier": "https://juanmoisesd.github.io/generative-ai-in-academic-research-database-on-usage-perception-and-productivity/",
       "relation": "isSupplementTo",
       "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.19145316",
+      "relation": "isPartOf",
+      "scheme": "doi",
+      "resource_type": "collection"
     }
   ]
 }
