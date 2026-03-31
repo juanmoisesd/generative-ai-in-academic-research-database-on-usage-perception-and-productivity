@@ -1,0 +1,37 @@
+# Generative AI in Academic Research: Database on Usage, Perception and Productivity
+
+> Structured database on the use of generative artificial intelligence (GAI) in academic research and university teaching in Latin America (2022–2025).
+
+## Author
+Juan Moisés de la Serna Tuya (UNIR)
+ORCID: 0000-0002-8401-8018
+Email: jmsernatuya@gmail.com
+
+## Description
+Comprehensive structured database documenting the adoption, perception, and productivity impacts of generative AI tools (ChatGPT, Copilot, Gemini, etc.) among students, researchers, and faculty in Latin American universities. Covers frequency of use, application areas (writing, data analysis, coding, literature review), perceived benefits and risks, ethical concerns, and effects on academic productivity. Data collected 2022–2025.
+
+## Coverage
+- Population: Students, researchers, and faculty at Latin American universities
+- Countries: Mexico, Argentina, Brazil, Colombia, Chile, Peru, and others
+- Years: 2022–2025
+- Variables: GAI tool usage frequency, application domain, productivity self-assessment, ethical concerns, disciplinary field, academic level
+
+## Key Topics
+- ChatGPT usage in academic writing
+- AI-assisted literature review
+- Code generation in research
+- Ethical concerns about AI in education
+- Productivity impacts of generative AI
+- Disciplinary differences in AI adoption
+
+## Dashboard URL
+https://juanmoisesd.github.io/generative-ai-in-academic-research-database-on-usage-perception-and-productivity/
+
+## License
+Data: CC BY 4.0 | Code: MIT
+
+## Citation
+Serna Tuya, J.M. (2025). Generative AI in Academic Research: Database on Usage, Perception and Productivity (Latin America, 2022–2025). GitHub. https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity
+
+## Keywords
+generative AI, ChatGPT, academic research, university teaching, latin america, productivity, AI ethics, higher education, open data
