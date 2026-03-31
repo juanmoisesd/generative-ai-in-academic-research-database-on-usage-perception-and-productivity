@@ -1,20 +1,21 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+## [Unreleased]
 
-## [1.0.0] - 2026-03-20
+## [1.0.0] - 2025-01-01
 
 ### Added
-- Initial release
-- Core dataset and documentation
-- README.md with full academic and divulgative description
-- CITATION.cff for automatic citation
-- codemeta.json for scientific metadata
-- LICENSE (CC0 1.0)
-- AUTHORS.md and CONTRIBUTORS.md
-- ACKNOWLEDGMENTS.md
-- Scientific documentation (methodology, validation, limitations)
-- FAIR metadata files (ro-crate-metadata.json, PROV.json)
-- Ethics and data management documentation
+- Initial release of Generative AI in Academic Research Database
+- CITATION.cff for academic citation
+- Community health files
+- OpenAIRE-compliant metadata
+
+### Data
+- Survey data on generative AI adoption among researchers 2022-2024
+- Bibliometric indicators of AI-assisted research output
+- Perception and productivity metrics across disciplines
+
+[Unreleased]: https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity/releases/tag/v1.0.0

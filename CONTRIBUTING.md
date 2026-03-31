@@ -1,62 +1,25 @@
-# Contributing to Generative AI in Academic Research: Database on Usage, Perception and Productivity
+# Contributing to Generative AI in Academic Research Database
 
-Thank you for your interest in contributing to **Generative AI in Academic Research: Database on Usage, Perception and Productivity**!
+Thank you for your interest! 🤖
 
-This repository is part of the open research of [Juan Moisés de la Serna Tuya](https://github.com/juanmoisesd) (UNIR).  
-ORCID: [0000-0002-8401-8018](https://orcid.org/0000-0002-8401-8018)
+## Ways to Contribute
 
----
+### 📊 Data Contributions
+- Report outdated data via [bug report](../../issues/new?template=bug_report.md)
+- Suggest new data sources or variables via [feature request](../../issues/new?template=feature_request.md)
+- Contribute survey data or bibliometric analysis results
 
-## 🌍 How to Contribute
+### 💻 Code Contributions
+1. Fork the repository
+2. Create a feature branch
+3. Commit with descriptive messages
+4. Open a Pull Request
 
-### 1. Report Issues or Suggestions
-Open an [Issue](https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity/issues) describing:
-- The problem found or improvement proposed
-- Steps to reproduce the issue (if applicable)
-- Screenshots or example data
+## Code of Conduct
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-### 2. Propose Data Improvements
-If you have additional data or corrections:
-1. **Fork** this repository
-2. Create a branch: `git checkout -b improvement/description`
-3. Make your changes and document the data source
-4. Submit a **Pull Request** with a clear description
+## Citation
+See [CITATION.cff](CITATION.cff).
 
-### 3. Improve Documentation
-Typo corrections, translations, or README improvements are welcome.
-
----
-
-## 📋 Quality Standards
-
-- Data must come from **verifiable and citable sources**
-- Include references to the original source (DOI, URL, institution)
-- CSV files should have headers in English
-- Metadata should follow the [FAIR principles](https://www.go-fair.org/)
-
----
-
-## 📝 Cite this Repository
-
-If you use this data in your research, please cite it:
-
-```bibtex
-@misc{delaserna_generative_ai_in_academic_research_database_on_usage_perception_and_productivity,
-  author    = {de la Serna Tuya, Juan Moisés},
-  title     = {Generative AI in Academic Research: Database on Usage, Perception and Productivity},
-  year      = {2024},
-  publisher = {GitHub},
-  url       = {https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity},
-  orcid     = {0000-0002-8401-8018}
-}
-```
-
----
-
-## ⚖️ License
-
-By contributing, you agree that your contributions will be published under the [CC0 1.0 Universal](LICENSE) license.
-
----
-
-*Questions? Contact via [GitHub Issues](https://github.com/juanmoisesd/generative-ai-in-academic-research-database-on-usage-perception-and-productivity/issues).*
+## Contact
+Open a [Discussion](../../discussions) or email jmsernatuya@gmail.com.
