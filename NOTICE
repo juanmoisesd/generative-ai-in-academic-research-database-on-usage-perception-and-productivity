@@ -1,0 +1,36 @@
+NOTICE — Data Source Attribution
+=================================
+
+Project: Generative AI in Academic Research — Database on Usage, Perception, and Productivity
+Author:  Juan Moisés de la Serna Tuya (UNIR)
+ORCID:   https://orcid.org/0000-0002-8401-8018
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Data Sources
+------------
+This database was compiled from primary research (surveys and interviews)
+conducted between 2022 and 2025, as well as the following secondary sources:
+
+1. Universidad Internacional de La Rioja (UNIR) — Institutional research data
+   License: Used with institutional permission
+
+2. Survey data collected from university students and researchers across
+   Argentina, Brazil, Chile, Colombia, Mexico, and Peru (2022-2025).
+   Participants provided informed consent per ethical protocols.
+
+3. Published literature on AI adoption in higher education (for validation)
+   — Individual papers cited in the dataset documentation.
+
+Ethical Compliance
+------------------
+All primary data was collected under ethical approval and informed consent.
+Personal identifiers have been removed. The dataset is fully anonymized.
+
+Attribution Requirement
+-----------------------
+If you use this dataset in your research, please cite:
+
+  Serna Tuya, J. M. (2025). Structured database on the use of generative
+  artificial intelligence (GAI) in academic research and university teaching
+  in Latin America (2022-2025). Zenodo.
+  https://doi.org/10.5281/zenodo.15229868
